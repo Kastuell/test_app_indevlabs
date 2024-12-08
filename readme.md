@@ -4,7 +4,7 @@ Firstly:
 
 ```
 # clone repo
-git clone ""
+git clone https://github.com/Kastuell/test_app_indevlabs.git
 
 
 ```
